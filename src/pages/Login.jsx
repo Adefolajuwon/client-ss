@@ -119,7 +119,7 @@ const Login = () => {
 
 					<p>Or</p>
 					<a
-						href={`${process.env.REACT_APP_SERVER_BASE_URL}/auth/google`}
+						href={`https://nasa-server-2.onrender.com/auth/google`}
 						className='w-3/5 h-10 text-[12px] bg-black text-white flex justify-center items-center rounded-[5px] mt-3'
 					>
 						Sign In With Google
