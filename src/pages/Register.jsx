@@ -148,7 +148,7 @@ const Register = () => {
 
 				<p>Or</p>
 				<a
-					href={`${process.env.REACT_APP_SERVER_BASE_URL}/api/auth/google`}
+					href={`${process.env.REACT_APP_SERVER_BASE_URL}/auth/google`}
 					className='w-3/5 h-10 text-[12px] bg-black text-white flex justify-center items-center rounded-[5px] mt-3'
 				>
 					Sign Up With Google
